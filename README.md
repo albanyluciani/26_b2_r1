@@ -6,10 +6,8 @@
 
 - **Enlace a la instancia:** (https://console.prisma.io/cmlk3zaui02h4w8efulaq9bbp/cmlk411ai02awx7edkk3l5is7/cmlk411ai02aux7ed675iykue/studio)
 
-* _Cadena de Conexión:_
-  postgresql://usuario:\*\*\*\*@db.prisma.io:5432/postgres?sslmode=require
-
-(URL y usuario visibles, contraseña oculta por seguridad)
+* _Configuración de Base de Datos en Prisma.io:_
+  ![Configuración Base de Datos - URL y Usuario (sin contraseña)](PRISMA_BasedeDatos.png)
 
 ---
 
