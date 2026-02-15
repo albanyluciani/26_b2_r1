@@ -1,6 +1,6 @@
 # Tarea 1 Backend 2
 
-** Nombre Completo:** Albany Anmabel Luciani Mujica
+**Nombre Completo:** Albany Anmabel Luciani Mujica
 
 ## 1. Instancia de Base de Datos
 
